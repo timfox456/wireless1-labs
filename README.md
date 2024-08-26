@@ -1,5 +1,8 @@
 # Wireless 1 Labs
 
+## Course Outline
+
+ * [Course Outline](./course-outline.md)
 
 ## Labs
 
